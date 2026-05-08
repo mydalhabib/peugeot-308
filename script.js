@@ -1,4 +1,4 @@
-const GOOGLE_SCRIPT_URL = "";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycby-lifCPubNRywoDWVK3QU8eLBEnnBZzzhmFfH6jlUFDr29LdGO7kaNSp4wMwv-0Tjr/exec";
 
 const form = document.querySelector("#contact-form");
 const statusMessage = document.querySelector("#form-status");
